@@ -1,0 +1,22 @@
+{
+  "name": "project-start",
+  "version": "1.0.0",
+  "description": "adding package.json",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js & live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masa98/-The-Complete-Web-Developer-in-2021-Zero-to-Mastery.git"
+  },
+  "author": "Masa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masa98/-The-Complete-Web-Developer-in-2021-Zero-to-Mastery/issues"
+  },
+  "homepage": "https://github.com/masa98/-The-Complete-Web-Developer-in-2021-Zero-to-Mastery#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
